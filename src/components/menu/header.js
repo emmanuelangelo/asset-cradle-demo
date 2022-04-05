@@ -74,7 +74,7 @@ const Header = function () {
                   width='30%'
                   src=".\src\assets\nav.png"
                   className="img-fluid d-block"
-                  alt="#"
+                  alt="Asset Cradle"
                 />
                 <img
                   width='30%'
@@ -86,7 +86,7 @@ const Header = function () {
                   width='30%'
                   src=".\src\assets\nav.png"
                   className="img-fluid d-none"
-                  alt="#"
+                  alt="Asset Cradle"
                 />
               </NavLink>
             </div>
