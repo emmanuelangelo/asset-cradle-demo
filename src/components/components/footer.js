@@ -70,7 +70,7 @@ const footer= () => (
                             <div className="de-flex">
                                 <div className="de-flex-col">
                                     <span onClick={()=> window.open("", "_self")}>
-                                        <span className="copy">&copy; Copyright 2022 - Algorise</span>
+                                        <span className="copy">&copy; Copyright 2022 - Asset Cradle</span>
                                     </span>
                                 </div>
                                 <div className="de-flex-col">

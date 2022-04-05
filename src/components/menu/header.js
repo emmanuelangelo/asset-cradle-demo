@@ -77,10 +77,10 @@ const Header= function() {
                     alt="#"
                   />
                   <img
-                    width='25%'
-                    src="src\assets\nav.png"
+                    width='75%'
+                    src="C:\Users\blockchain\algorise-main-master\src\assets\nav.png"
                     className="img-fluid d-3"
-                    alt="#"
+                    alt="Asset Cradle"
                   />
                   <img
                     width='25%'
