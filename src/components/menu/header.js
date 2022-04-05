@@ -72,19 +72,19 @@ const Header= function() {
                 <NavLink to="/">
                 <img
                     width='25%'
-                    src="src\assets\nav.png"
+                    src=".\src\assets\nav.png"
                     className="img-fluid d-block"
                     alt="#"
                   />
                   <img
-                    width='75%'
-                    src="C:\Users\blockchain\algorise-main-master\src\assets\nav.png"
+                    width='25%'
+                    src=".\src\assets\nav.png"
                     className="img-fluid d-3"
                     alt="Asset Cradle"
                   />
                   <img
                     width='25%'
-                    src="src\assets\nav.png"
+                    src=".\src\assets\nav.png"
                     className="img-fluid d-none"
                     alt="#"
                   />
